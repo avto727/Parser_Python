@@ -1,12 +1,12 @@
 import requests
 from requests.auth import HTTPBasicAuth
 
-public_id = 'pk_608b65f76ddfc8963b498a6e9a907'
-api_secret = '32fdea530a3991a02a5a4714ac7d93c2'
+public_id = '***'
+api_secret = '***'
 
 # Для Refund
 amount = '199'
-transaction_id = '27540986'
+transaction_id = '***'
 params_1 = {
             'Amount': amount,
             'TransactionId': transaction_id
