@@ -23,8 +23,7 @@ def lookup(driver, query):
         try:
             button.click()
         except ElementNotVisibleException:
-            button = driver.wait.until(EC.visibility_of_element_located(
-                (By.NAME, "btnG")))
+            button = driver.find_element_by_tag_name("input").get_attribute("btnK")
             button.click()
     except TimeoutException:
         print("Box or Button not found in google.com")
@@ -33,5 +32,5 @@ def lookup(driver, query):
 if __name__ == "__main__":
     driver = init_driver()
     lookup(driver, "Selenium")
-    time.sleep(5)
+    time.sleep(6)
     driver.quit()

@@ -1,5 +1,7 @@
-import grab
+from grab import Grab
 
-g = grab()
-g.setup(url='http://yandex.ru', log_file='out.html')
-g.request()
+g = Grab()
+url = 'https://news.yandex.ru/index.rss'
+g.go(url)
+
+print (g.doc.text_search(u'Яндекс'.encode('utf-8'), byte=True))

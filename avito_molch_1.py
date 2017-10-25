@@ -15,7 +15,7 @@ def get_html(url):
 def get_total_pages(html):
     soup = BeautifulSoup(html, 'lxml')
     #Класс = значению из html кода (следующая страница)
-    pages = soup.find('div', class_='pagination-pages').find_all('a', class_='pagination-page')[-1].get('href')
+    pages = soup.find('div', class_='pagination-pages').find_all('a', class_='')[-1].get('href')
     # Вытаскиваем номер последней страницы
     # Разбиваем строку на символы  по знаку =, выбираем второй элемент [1]  и еще раз делим по & и берем первый
     # элемент [0]

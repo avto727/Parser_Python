@@ -148,8 +148,34 @@ r = driver.page_source
 soup = BeautifulSoup(r, 'lxml')
 a = str(soup.find('div', class_='sj_paginator').find_all('div', class_='sj_paginator_btn'))
 p = a.split('page=')[4].split('"')[0]
-print(p)
+# print(p)
 
 
 
-for i in range(2, p):
+# for i in range(2, p):
+r = driver.page_source
+soup = BeautifulSoup(r, 'lxml')
+table = soup.find('div', class_='sj_flex_col2').find_all('div', class_='ResumeListElementNew js-resume-item ng-scope')
+print(table)
+# for table in tables:
+    # Должность
+title = table.find('div', class_='sj_block m_b_1')
+    # Зарплатные ожидания
+price = table.find('span', class_='sj_text ResumeListElementNew_bold')
+age = soup.find_all('span', class_='sj_text')
+print(age)
+ag = age[2].text
+city = age[3].text
+move = age[4].text
+lang = age[5].text
+stage = age[6].text
+print(price, city, lang, move, stage)
+link = soup.find('div', class_='sj_block m_b_1').find('a').get('href').split('?')[0]
+    # print(link)
+data = {'title':title,
+            'price':price,
+            'age':ag,
+            'city': city,
+            'move':move,
+            'lang': lang,
+            'stage': stage,}

@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2d1b62-52b1-4682-a537-01892b224d63" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sj_1.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/avito_molch_1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/hidden_from_feed bodrec.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/pars1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/pars2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/pars3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk10_csv_unsure.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk6_csv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk7_csv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk8_csv.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/requests_vk9_csv_unsure.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/weblancer_csv_part4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/weblancer_csv_part5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/weblancer_part1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/weblancer_part2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/weblancer_part3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/weblancer_part4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/weblancer_part5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/weblancer_part_part3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Work/z.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpars_1.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_selenium.py" afterPath="$PROJECT_DIR$/Work/sj_sel_2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/avito.csv" afterPath="$PROJECT_DIR$/avito.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/avito_molch_1.py" afterPath="$PROJECT_DIR$/avito_molch_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google_sel_2.py" afterPath="$PROJECT_DIR$/google_sel_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grab_hh1.py" afterPath="$PROJECT_DIR$/grab_hh1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodejs" afterPath="$PROJECT_DIR$/nodejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nodejs.py" afterPath="$PROJECT_DIR$/nodejs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sadovod_7.py" afterPath="$PROJECT_DIR$/sadovod_7.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ydirect.py" afterPath="$PROJECT_DIR$/ydirect.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,86 +46,75 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Parser1$note1.coverage" NAME="note1 Coverage Results" MODIFIED="1505072381342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sadovod_6_post.coverage" NAME="sadovod_6_post Coverage Results" MODIFIED="1506613421458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sadovod_3.coverage" NAME="sadovod_3 Coverage Results" MODIFIED="1506630729928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Parser1$j50_job1.coverage" NAME="j50_job1 Coverage Results" MODIFIED="1504823526683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Parser1$joblistgrabber2.coverage" NAME="joblistgrabber2 Coverage Results" MODIFIED="1504627575786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Parser1$j50_part5.coverage" NAME="j50_part5 Coverage Results" MODIFIED="1504823809943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Parser1$grab_hh1.coverage" NAME="grab_hh1 Coverage Results" MODIFIED="1504625341706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sadovod_7__selenium.coverage" NAME="sadovod_7 _selenium Coverage Results" MODIFIED="1506673137173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sadovod_5_post__1_.coverage" NAME="sadovod_5_post (1) Coverage Results" MODIFIED="1506634482717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
     <SUITE FILE_PATH="coverage/Parser1$pars2.coverage" NAME="pars2 Coverage Results" MODIFIED="1504377466124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Parser1$pars3.coverage" NAME="pars3 Coverage Results" MODIFIED="1504393295138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Parser1$hh_job1.coverage" NAME="hh_job1 Coverage Results" MODIFIED="1504686538691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sj_sel_2.coverage" NAME="sj_sel_2 Coverage Results" MODIFIED="1507572550110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
     <SUITE FILE_PATH="coverage/Parser1$weblancer_part5.coverage" NAME="weblancer_part5 Coverage Results" MODIFIED="1504820822402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$google_sel_2.coverage" NAME="google_sel_2 Coverage Results" MODIFIED="1506611456888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sj_sel_2__1_.coverage" NAME="sj_sel_2 (1) Coverage Results" MODIFIED="1507732615608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Parser1$weblancer_part2.coverage" NAME="weblancer_part2 Coverage Results" MODIFIED="1504556159270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Parser1$weblancer_csv_part4.coverage" NAME="weblancer_csv_part4 Coverage Results" MODIFIED="1504621674858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$nodejs.coverage" NAME="nodejs Coverage Results" MODIFIED="1506609426416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Parser1$weblancer_part_part3.coverage" NAME="weblancer_part_part3 Coverage Results" MODIFIED="1504610608194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Parser1$weblancer_part2_job.coverage" NAME="weblancer_part2_job Coverage Results" MODIFIED="1504372900401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$test_selenium.coverage" NAME="test_selenium Coverage Results" MODIFIED="1506692773756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sadovod_7.coverage" NAME="sadovod_7 Coverage Results" MODIFIED="1506637105195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Parser1$hh_job0.coverage" NAME="hh_job0 Coverage Results" MODIFIED="1504622003698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$test_selenium_2__1_.coverage" NAME="test_selenium_2 (1) Coverage Results" MODIFIED="1507098060002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
+    <SUITE FILE_PATH="coverage/Parser1$sadovod_4_post.coverage" NAME="sadovod_4_post Coverage Results" MODIFIED="1506609865876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$test_selenium_2.coverage" NAME="test_selenium_2 Coverage Results" MODIFIED="1507098020961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$avito_molch_1.coverage" NAME="avito_molch_1 Coverage Results" MODIFIED="1505995832074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$test_space_1.coverage" NAME="test_space_1 Coverage Results" MODIFIED="1506981199649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$note1.coverage" NAME="note1 Coverage Results" MODIFIED="1505072381342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$wpars_1.coverage" NAME="wpars_1 Coverage Results" MODIFIED="1506678176670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$j50_part5.coverage" NAME="j50_part5 Coverage Results" MODIFIED="1504823809943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$grab_hh1.coverage" NAME="grab_hh1 Coverage Results" MODIFIED="1506607027555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sadovod_1.coverage" NAME="sadovod_1 Coverage Results" MODIFIED="1506299500479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$pars3.coverage" NAME="pars3 Coverage Results" MODIFIED="1504393295138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sj_1.coverage" NAME="sj_1 Coverage Results" MODIFIED="1507133305730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$hh_job1.coverage" NAME="hh_job1 Coverage Results" MODIFIED="1504686538691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$ydirect.coverage" NAME="ydirect Coverage Results" MODIFIED="1506556141196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$test_selenium_3.coverage" NAME="test_selenium_3 Coverage Results" MODIFIED="1507097934148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
+    <SUITE FILE_PATH="coverage/Parser1$weblancer_csv_part4.coverage" NAME="weblancer_csv_part4 Coverage Results" MODIFIED="1504621674858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$weblancer_part2_job.coverage" NAME="weblancer_part2_job Coverage Results" MODIFIED="1504372900401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Parser1$weblancer_part4.coverage" NAME="weblancer_part4 Coverage Results" MODIFIED="1504613454757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Parser1$weblancer_part1.coverage" NAME="weblancer_part1 Coverage Results" MODIFIED="1504470787979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Parser1$avito_molch_1.coverage" NAME="avito_molch_1 Coverage Results" MODIFIED="1505995832074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$sadovod_5_post.coverage" NAME="sadovod_5_post Coverage Results" MODIFIED="1506612289356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Parser1$google_sel_1.coverage" NAME="google_sel_1 Coverage Results" MODIFIED="1506555682803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Parser1$weblancer.coverage" NAME="weblancer Coverage Results" MODIFIED="1504820766833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="j50_part5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/j50_part5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="note1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/note1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grab_hh1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grab_hh1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="j50_job1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/j50_job1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="avito_molch_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="avito_molch_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/avito_molch_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="17" column="93" lean-forward="false" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sj_sel_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sj_sel_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="164" column="45" lean-forward="false" selection-start-line="164" selection-start-column="45" selection-end-line="164" selection-end-column="45" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weblancer_part5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weblancer_part5.py">
+      <file leaf-file-name="sadovod_7 _selenium.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sadovod_7 _selenium.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="1649">
+              <caret line="109" column="32" lean-forward="false" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -108,16 +131,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>itemListElem</find>
-      <find>catalog-list</find>
-      <find>pagination-pages</find>
-      <find>col-xs-12</find>
-      <find>после</find>
-      <find>94</find>
-      <find>рерай</find>
-      <find>веб</find>
-      <find>плаг</find>
-      <find>35</find>
       <find>$</find>
       <find>l</find>
       <find>pagination</find>
@@ -132,9 +145,26 @@
       <find>metro</find>
       <find>Сервис инженер 1С</find>
       <find>Yandex</find>
+      <find>product-item col-lg-4 col-md-4 col-sm-6 col-xs-12</find>
+      <find>title</find>
+      <find>if</find>
+      <find>form</find>
+      <find>page_number</find>
+      <find>id_category</find>
+      <find>soup_url</find>
+      <find>начать</find>
+      <find>Эффективно</find>
+      <find>alt=&quot;Викиум тренажеры для мозга&quot;</find>
+      <find>keywords[0][keys]</find>
+      <find>Расширенный поиск резюме</find>
+      <find>page</find>
+      <find>page=</find>
+      <find>9</find>
+      <find>sj_block m_b_1</find>
     </findStrings>
     <replaceStrings>
       <replace>date</replace>
+      <replace>article</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -156,7 +186,6 @@
         <option value="$PROJECT_DIR$/weblancer_csv_part4.py" />
         <option value="$PROJECT_DIR$/avito_job1.py" />
         <option value="$PROJECT_DIR$/hh_job0.py" />
-        <option value="$PROJECT_DIR$/grab_hh1.py" />
         <option value="$PROJECT_DIR$/joblistgrabber2.py" />
         <option value="$PROJECT_DIR$/hh_job1.py" />
         <option value="$PROJECT_DIR$/trovit_job1.py" />
@@ -164,7 +193,30 @@
         <option value="$PROJECT_DIR$/j50_job1.py" />
         <option value="$PROJECT_DIR$/j50_part5.py" />
         <option value="$PROJECT_DIR$/note1.py" />
+        <option value="$PROJECT_DIR$/sadovod_1.py" />
+        <option value="$PROJECT_DIR$/sadovod_2.py" />
+        <option value="$PROJECT_DIR$/google_sel_1.py" />
+        <option value="$PROJECT_DIR$/ydirect.py" />
+        <option value="$PROJECT_DIR$/grab_hh1.py" />
+        <option value="$PROJECT_DIR$/nodejs" />
+        <option value="$PROJECT_DIR$/nodejs.py" />
+        <option value="$PROJECT_DIR$/sadovod_4_post.py" />
+        <option value="$PROJECT_DIR$/google_sel_2.py" />
+        <option value="$PROJECT_DIR$/sadovod_5_post.py" />
+        <option value="$PROJECT_DIR$/sadovod_6_post.py" />
+        <option value="$PROJECT_DIR$/sadovod_3.py" />
+        <option value="$PROJECT_DIR$/Work/sadovod_5_post.py" />
+        <option value="$PROJECT_DIR$/sadovod_7.py" />
+        <option value="$PROJECT_DIR$/test_selenium.py" />
+        <option value="$PROJECT_DIR$/sadovod_7 _selenium.py" />
+        <option value="$PROJECT_DIR$/wpars_1.py" />
+        <option value="$PROJECT_DIR$/test_selenium_2.py" />
+        <option value="$PROJECT_DIR$/test_space_1.py" />
+        <option value="$PROJECT_DIR$/Work/test_selenium_2.py" />
+        <option value="$PROJECT_DIR$/sj_1.py" />
         <option value="$PROJECT_DIR$/avito_molch_1.py" />
+        <option value="$PROJECT_DIR$/Work/sj_sel_2.py" />
+        <option value="$PROJECT_DIR$/sj_sel_2.py" />
       </list>
     </option>
   </component>
@@ -176,13 +228,14 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1163" />
+    <option name="width" value="852" />
     <option name="height" value="867" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -195,25 +248,11 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Parser1" type="cbb8eebc:String" user="Parser1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/joblistgrabber2.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,8 +266,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.avito_molch_1">
-    <configuration name="avito_molch_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sj_sel_2 (1)">
+    <configuration name="sj_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -241,12 +280,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Parser1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avito_molch_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sj_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="j50_job1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sj_sel_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -259,48 +298,48 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Parser1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/j50_job1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sj_sel_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="j50_part5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sj_sel_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Parser1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/j50_part5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/sj_sel_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="note1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_selenium_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Parser1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/note1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/test_selenium_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="weblancer_part5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_selenium_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,7 +352,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Parser1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weblancer_part5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_selenium_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +377,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.weblancer_part_part3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.j50_job1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.j50_part5" />
-      <item index="3" class="java.lang.String" itemvalue="Python.weblancer_part5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.note1" />
-      <item index="5" class="java.lang.String" itemvalue="Python.avito_molch_1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_selenium_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test_selenium_2 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sj_1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sj_sel_2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.sj_sel_2 (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.avito_molch_1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.note1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.j50_part5" />
-        <item index="3" class="java.lang.String" itemvalue="Python.j50_job1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.weblancer_part5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sj_sel_2 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sj_sel_2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sj_1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_selenium_2 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test_selenium_2" />
       </list>
     </recent_temporary>
   </component>
@@ -372,14 +411,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23625" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23907454" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.381875" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973083" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1225" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -393,6 +433,27 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57738894" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23907454" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1225" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994778" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -405,169 +466,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grab_hh1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j50_part5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j50_job1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/avito_molch_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblancer_part5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j50_part5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j50_job1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblancer_part5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/avito_molch_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j50_part5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j50_job1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblancer_part5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/avito_molch_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weblancer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j50_job1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" column="74" lean-forward="false" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trovit_job1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trovit_job1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note1.py">
+    <entry file="file://$PROJECT_DIR$/nodejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -595,7 +494,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note1.py">
+    <entry file="file://$PROJECT_DIR$/nodejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
@@ -745,52 +644,144 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/weblancer_part5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="382">
           <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/sadovod_1.py" />
+    <entry file="file://$PROJECT_DIR$/grab_hh1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/sadovod_2_csv.py" />
+    <entry file="file://$PROJECT_DIR$/Work/sadovod_3.py" />
+    <entry file="file://$PROJECT_DIR$/sadovod_6_post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="3" column="55" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/sadovod_5_post.py" />
+    <entry file="file://$PROJECT_DIR$/sadovod_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpars_1.py" />
+    <entry file="file://$PROJECT_DIR$/ydirect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_selenium_2.py" />
+    <entry file="file://$PROJECT_DIR$/test_space_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/j50_job1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="-204">
           <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/j50_part5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="51" />
-          <folding />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note1.py">
+    <entry file="file://$PROJECT_DIR$/Work/test_selenium_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="714">
+          <caret line="42" column="136" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="136" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grab_hh1.py">
+    <entry file="file://$PROJECT_DIR$/sj_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <caret line="40" column="56" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google_sel_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/test_selenium_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" column="11" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sadovod_7 _selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="109" column="32" lean-forward="false" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/sj_sel_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="151" column="0" lean-forward="false" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/avito_molch_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="17" column="93" lean-forward="false" selection-start-line="17" selection-start-column="84" selection-end-line="17" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sj_sel_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="164" column="45" lean-forward="false" selection-start-line="164" selection-start-column="45" selection-end-line="164" selection-end-column="45" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
